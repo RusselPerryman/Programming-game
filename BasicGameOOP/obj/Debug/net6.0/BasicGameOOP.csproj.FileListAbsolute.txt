@@ -1,0 +1,15 @@
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.csproj.AssemblyReference.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.AssemblyInfoInputs.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.AssemblyInfo.cs
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.csproj.CoreCompileInputs.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\bin\Debug\net6.0\BasicGameOOP.exe
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\bin\Debug\net6.0\BasicGameOOP.deps.json
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\bin\Debug\net6.0\BasicGameOOP.runtimeconfig.json
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\bin\Debug\net6.0\BasicGameOOP.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\bin\Debug\net6.0\ref\BasicGameOOP.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\bin\Debug\net6.0\BasicGameOOP.pdb
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\ref\BasicGameOOP.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.pdb
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Basic Game\BasicGameOOP\BasicGameOOP\obj\Debug\net6.0\BasicGameOOP.genruntimeconfig.cache
